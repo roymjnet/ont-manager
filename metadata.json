@@ -1,0 +1,8 @@
+{
+  "name": "Halo Hub",
+  "description": "A sleek, interactive modern web application and productivity workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
